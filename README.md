@@ -90,11 +90,9 @@
 ---
 
 ### 📊 DEVELOPMENT METRICS
-<p align="left">
-  <img width="50%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanrzh&layout=compact&theme=radical" />
-  <br>
-  <img width="50%" src="https://github-readme-streak-stats.herokuapp.com/?user=ryanrzh&theme=radical" />
-</p>
+![](https://github-readme-stats.vercel.app/api?username=ryanrzh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ryanrzh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanrzh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
 
