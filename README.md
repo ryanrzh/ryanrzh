@@ -1,16 +1,30 @@
-## Hi there 👋
+# Hi, I'm Ryan Rizkyansyah 👋
 
-<!--
-**ryanrzh/ryanrzh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+A passionate **Web Developer** and **Content Creator** who loves building digital experiences and sharing ideas through clean, creative code.
 
-Here are some ideas to get you started:
+## 🔧 Skills
+- HTML, CSS, JavaScript
+- React, Tailwind CSS
+- Git, GitHub, VS Code
+- Firebase, REST API
+- UI/UX Design Principles
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📌 Projects
+- **Portfolio Website** – A responsive personal site built with React & Tailwind.  
+  [Live Demo](https://your-live-demo-link.com) | [Repo](https://github.com/your-username/portfolio-website)
+
+- **Mini Blog Platform** – A simple blog with user authentication using Firebase.  
+  [Live Demo](https://your-link.com) | [Repo](https://github.com/your-username/blog-project)
+
+- **Game Dev Project** – 2D platformer game made with Unity & C#.  
+  [Gameplay Video](https://youtube.com/yourgamevideo)
+
+## 🎯 What I'm Working On
+- Building more interactive web projects
+- Improving my backend skills (Node.js, Express, MongoDB)
+- Creating content on design, code & creativity
+
+## 📫 Let's Connect!
+- Email: your.email@example.com
+- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
+- Portfolio: [yourwebsite.com](https://yourwebsite.com)
