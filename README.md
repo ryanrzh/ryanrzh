@@ -81,6 +81,8 @@
 - Implemented CI/CD pipelines reducing deployment time by 80%
 - Received "Employee of the Year" for innovative solutions
 
+---
+
 ### 📊 DEVELOPMENT METRICS
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=radical" />
