@@ -1,30 +1,52 @@
-# Hi, I'm Ryan Rizkyansyah 👋
+<!-- Banner Header -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e54c8,100:8f94fb&height=200&section=header&text=Hi,%20I'm%20Ryan%20Rizkyansyah&fontSize=35&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-A passionate **Web Developer** and **Content Creator** who loves building digital experiences and sharing ideas through clean, creative code.
+<p align="center">
+  🚀 Web Developer | 🎮 Indie Game Dev | 🎥 Content Creator  
+</p>
 
-## 🔧 Skills
-- HTML, CSS, JavaScript
-- React, Tailwind CSS
-- Git, GitHub, VS Code
-- Firebase, REST API
-- UI/UX Design Principles
+---
 
-## 📌 Projects
-- **Portfolio Website** – A responsive personal site built with React & Tailwind.  
-  [Live Demo](https://your-live-demo-link.com) | [Repo](https://github.com/your-username/portfolio-website)
+### 🔧 Tech Stack & Tools
+<p align="center">
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black"/>
+  <img src="https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/-Unity-000000?style=for-the-badge&logo=unity&logoColor=white"/>
+</p>
 
-- **Mini Blog Platform** – A simple blog with user authentication using Firebase.  
-  [Live Demo](https://your-link.com) | [Repo](https://github.com/your-username/blog-project)
+---
 
-- **Game Dev Project** – 2D platformer game made with Unity & C#.  
-  [Gameplay Video](https://youtube.com/yourgamevideo)
+### 🧩 Featured Projects
+| Project | Description | Link |
+|--------|-------------|------|
+| **Portfolio Website** | Personal website with React + Tailwind | [Live Demo](https://yourlink.com) |
+| **Mini Blog Platform** | Blog with Firebase Auth | [Repo](https://github.com/yourusername/blog-platform) |
+| **2D Platformer Game** | Built in Unity (C#) | [Gameplay](https://youtube.com/yourgamevideo) |
 
-## 🎯 What I'm Working On
-- Building more interactive web projects
-- Improving my backend skills (Node.js, Express, MongoDB)
-- Creating content on design, code & creativity
+---
 
-## 📫 Let's Connect!
-- Email: your.email@example.com
-- LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)
-- Portfolio: [yourwebsite.com](https://yourwebsite.com)
+### ✨ Currently Exploring
+- Node.js & Express  
+- MongoDB & backend APIs  
+- Deploying full-stack apps  
+
+---
+
+### 📫 Connect with Me
+<p align="center">
+  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  <a href="https://yourwebsite.com"><img src="https://img.shields.io/badge/-Portfolio-12100E?style=for-the-badge&logo=aboutdotme&logoColor=white"/></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8f94fb,100:4e54c8&height=100&section=footer"/>
+</p>
