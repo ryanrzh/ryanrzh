@@ -14,7 +14,7 @@
 ---
 
 ### 🛠️ TECH STACK & TOOLS
-<p align="center" style="margin: 25px 0;">
+<p align="left" style="margin: 25px 0;">
   <!-- Row 1: Languages -->
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" height="32">
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" height="32">
