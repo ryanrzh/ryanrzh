@@ -25,7 +25,7 @@
   <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" height="32">
   <img src="https://img.shields.io/badge/Lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white" height="32">
   <br><br>
-  
+
   <!-- Row 2: Frontend -->
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" height="32">
   <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" height="32">
@@ -33,7 +33,7 @@
   <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" height="32">
   <img src="https://img.shields.io/badge/Redux-764ABC?style=for-the-badge&logo=redux&logoColor=white" height="32">
   <br><br>
-  
+
   <!-- Row 3: Backend -->
   <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" height="32">
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" height="32">
@@ -42,21 +42,36 @@
   <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" height="32">
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" height="32">
   <br><br>
-  
+
   <!-- Row 4: Databases -->
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" height="32">
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" height="32">
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" height="32">
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" height="32">
   <br><br>
-  
+
   <!-- Row 5: DevOps & Tools -->
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" height="32">
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" height="32">
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" height="32">
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" height="32">
-  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" height="32">
   <img src="https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white" height="32">
+  <br><br>
+
+  <!-- Row 6: Game Engines -->
+  <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" height="32">
+  <img src="https://img.shields.io/badge/Godot-478CBF?style=for-the-badge&logo=godot-engine&logoColor=white" height="32">
+  <img src="https://img.shields.io/badge/Unreal_Engine-313131?style=for-the-badge&logo=unreal-engine&logoColor=white" height="32">
+  <img src="https://img.shields.io/badge/Construct-003A70?style=for-the-badge&logo=construct-3&logoColor=white" height="32">
+  <img src="https://img.shields.io/badge/GameMaker-FF6C0A?style=for-the-badge&logo=yoyogames&logoColor=white" height="32">
+  <img src="https://img.shields.io/badge/Scratch-FFA500?style=for-the-badge&logo=scratch&logoColor=white" height="32">
+  <br><br>
+
+  <!-- Row 7: Networking Libraries -->
+  <img src="https://img.shields.io/badge/Photon_Network-3498DB?style=for-the-badge&logo=photon&logoColor=white" height="32">
+  <img src="https://img.shields.io/badge/FishNet-8E44AD?style=for-the-badge&logo=fish&logoColor=white" height="32">
+  <img src="https://img.shields.io/badge/Mirror-95A5A6?style=for-the-badge&logo=mirror&logoColor=white" height="32">
+  <img src="https://img.shields.io/badge/Netcode_for_GameObjects-2ECC71?style=for-the-badge&logo=unity&logoColor=white" height="32">
 </p>
 
 ---
