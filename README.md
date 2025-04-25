@@ -140,7 +140,7 @@
   <a href="https://linkedin.com/in/ryanrizkyansyah">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28">
 </a>
-<a href="https://instagram.com/ryanrzh">
+<a href="https://instagram.com/ryn-rzh">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28">
 </a>
 <a href="https://ryan-rzh/vercel.app">
