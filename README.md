@@ -140,10 +140,10 @@
   <a href="https://linkedin.com/in/ryanrizkyansyah">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28">
 </a>
-<a href="https://instagram.com/ryn-rzh">
+<a href="https://instagram.com/ryn_rzh">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28">
 </a>
-<a href="https://ryan-rzh/vercel.app">
+<a href="https://ryan-rzh.vercel.app">
   <img src="https://img.shields.io/badge/Portfolio-FF7139?style=for-the-badge&logo=about.me&logoColor=white" height="28">
 </a>
 
