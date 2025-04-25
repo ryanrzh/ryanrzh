@@ -4,7 +4,7 @@
 </p>
 
 <h1 align="center">
-  💻 Software Engineer | 🚀 Full-Stack Developer | 🎮 Game Dev Enthusiast
+  💻 Software Engineer | 🚀 Full-Stack Developer | 🎮 Game Dev
 </h1>
 
 <p align="center">
