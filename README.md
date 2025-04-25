@@ -137,7 +137,7 @@
 
 ### 📫 LET'S CONNECT
 <p align="left">
-  <a href="https://linkedin.com/in/ryanrizkyansyah](https://www.linkedin.com/in/ryan-rizkyansyah-6311382a5">
+  <a href="https://www.linkedin.com/in/ryan-rizkyansyah-6311382a5">
   <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28">
 </a>
 <a href="https://instagram.com/ryn_rzh">
