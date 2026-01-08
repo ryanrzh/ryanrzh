@@ -72,7 +72,7 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="30">
   </a>
   &nbsp;
-  <a href="https://ryan-rzh.vercel.app">
+  <a href="https://ryanrzh.vercel.app">
     <img src="https://img.shields.io/badge/Portfolio-100000?style=for-the-badge&logo=vercel&logoColor=white" height="30">
   </a>
 
