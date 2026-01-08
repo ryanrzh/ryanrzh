@@ -109,22 +109,6 @@
 
 --- -->
 
-### 💼 PROFESSIONAL JOURNEY
-
-**🧑‍💻 Senior Software Engineer** @ TechCorp (2022-Present)
-
-- Lead development of customer portal serving 50k+ users
-- Reduced API response times by 65% through query optimization
-- Mentored 3 junior developers in React/Node.js best practices
-
-**👨‍💻 Full-Stack Developer** @ WebSolutions (2019-2022)
-
-- Built 15+ responsive web applications for enterprise clients
-- Implemented CI/CD pipelines reducing deployment time by 80%
-- Received "Employee of the Year" for innovative solutions
-
----
-
 ### 📊 DEVELOPMENT METRICS
 
 ![](https://github-readme-stats.vercel.app/api?username=ryanrzh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
