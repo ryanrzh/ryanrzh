@@ -47,9 +47,13 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ryanrzh&show_icons=true&locale=en&theme=tokyonight&hide_border=true&bg_color=00000000&hide_title=true&hide_rank=false" height="130" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ryanrzh&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000&hide_title=true" height="130" />
-</div>
+  ### 📊 DEVELOPMENT METRICS
+
+![](https://github-readme-stats.vercel.app/api?username=ryanrzh&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=ryanrzh&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanrzh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+---
 
 <br/>
 
