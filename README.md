@@ -52,6 +52,14 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ryanrzh&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ryanrzh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=8F94FB&style=flat" alt="Profile views" />
+</p>
+
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8f94fb,100:4e54c8&height=100&section=footer"/>
+</p>
+
 ---
 
 <br/>
