@@ -60,7 +60,7 @@
   <h3>🤝 LET'S WORK TOGETHER</h3>
   
   <a href="https://www.freelancer.com/u/ryanrzh">
-    <img src="https://img.shields.io/badge/Hire_Me_on-Freelancer-29B2FE?style=for-the-badge&logo=freelancer&logoColor=white" height="40">
+    <img src="https://img.shields.io/badge/Hire_Me_on-Freelancer-29B2FE?style=for-the-badge&logo=freelancer.com&logoColor=white" height="40">
   </a>
   <br/><br/>
   
