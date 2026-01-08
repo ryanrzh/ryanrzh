@@ -2,10 +2,10 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:4e54c8,100:8f94fb&height=220&section=header&text=Hi,%20I'm%20Ryan%20Rizkyansyah&fontSize=35&fontColor=ffffff&animation=fadeIn" width="100%" />
 
   <h1 align="center">
-    💻 Software Engineer | 🚀 Full-Stack Developer | 🎮 Game Dev
+    💻 Software Engineer | 🚀 Full-Stack Developer | 🎮 Game Dev | 🌍 Freelancer
   </h1>
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8F94FB&center=true&width=435&lines=Problem+Solver;Clean+Code+Advocate;Tech+Generalist;Continuous+Learner" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=8F94FB&center=true&width=435&lines=Problem+Solver;Clean+Code+Advocate;Open+to+Freelance;Continuous+Learner" alt="Typing SVG" />
 </div>
 
 <br/>
@@ -32,7 +32,6 @@
         <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white" height="25">
         <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white" height="25">
         <img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" height="25">
-        <img src="https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white" height="25">
       </td>
     </tr>
     <tr>
@@ -49,11 +48,11 @@
     <tr>
       <td align="center" width="90"><b>Backend</b></td>
       <td align="center">
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" height="25">
         <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" height="25">
         <img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" height="25">
         <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=django&logoColor=white" height="25">
         <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=spring-boot&logoColor=white" height="25">
-        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" height="25">
         <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" height="25">
       </td>
     </tr>
@@ -63,6 +62,9 @@
         <img src="https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity&logoColor=white" height="25">
         <img src="https://img.shields.io/badge/Unreal-313131?style=flat-square&logo=unreal-engine&logoColor=white" height="25">
         <img src="https://img.shields.io/badge/Godot-478CBF?style=flat-square&logo=godot-engine&logoColor=white" height="25">
+        <img src="https://img.shields.io/badge/GameMaker-FF6C0A?style=flat-square&logo=gamemaker&logoColor=white" height="25">
+        <img src="https://img.shields.io/badge/Construct_3-003A70?style=flat-square&logo=construct-3&logoColor=white" height="25">
+        <img src="https://img.shields.io/badge/GDevelop-4832CC?style=flat-square&logo=gdevelop&logoColor=white" height="25">
         <img src="https://img.shields.io/badge/Photon-3498DB?style=flat-square&logo=photon&logoColor=white" height="25">
       </td>
     </tr>
