@@ -56,7 +56,9 @@
   <img src="https://komarev.com/ghpvc/?username=yourusername&label=Profile+Views&color=8F94FB&style=flat" alt="Profile views" />
 </p>
 
----
+<div align="center">
+  <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%">
+</div>
 
 <br/>
 
